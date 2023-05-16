@@ -1,0 +1,2 @@
+class NationalPark < ApplicationRecord
+end
